@@ -1,0 +1,137 @@
+REXPaint v1.70
+
+[ 23648] I=0000000 Initializing resources
+[ 23648] I=0000001 Loading colors
+[ 23648] I=0000004 Initializing Rogue Engine X
+[ 23648] I=0000004 |   Starting SDL
+[ 23648] I=0000017 |   Importing icon
+[ 23648] E=0000017 |   REX_Init() | Application icon "rex/icon.png" not found, this program may not be installed correctly!
+[ 23648] I=0000017 |   Confirmed resource initialization
+[ 23648] I=0000017 |   Initializing font type data
+[ 23648] I=0000017 |   Mapping standard ASCII values
+[ 23648] I=0000017 |   Loading fonts
+[ 23648] I=0000018 |   |   [font set: 8x16 Fixedsys]
+[ 23648] I=0000023 |   |   ...cp437_8x16_fixedsys.png
+[ 23648] I=0000024 |   |   ...cp437_8x16_fixedsys.png
+[ 23648] I=0000024 |   |   [font set: 8x12 Terminal]
+[ 23648] I=0000029 |   |   ...cp437_8x12_terminal.png
+[ 23648] I=0000030 |   |   ...cp437_8x12_terminal.png
+[ 23648] I=0000030 |   |   [font set: 8x14 Terminal]
+[ 23648] I=0000034 |   |   ...cp437_8x14_terminal.png
+[ 23648] I=0000036 |   |   ...cp437_8x14_terminal.png
+[ 23648] I=0000036 |   |   [font set: 10x16 Terminal]
+[ 23648] I=0000041 |   |   ...cp437_10x16_terminal.png
+[ 23648] I=0000042 |   |   ...cp437_10x16_terminal.png
+[ 23648] I=0000042 |   |   [font set skipped: CP437 12x12] (unavailable)
+[ 23648] I=0000042 |   |   [font set skipped: CP437 14x14] (unavailable)
+[ 23648] I=0000042 |   |   [font set skipped: CP437 16x16] (unavailable)
+[ 23648] I=0000042 |   |   [font set skipped: CP437 18x18] (unavailable)
+[ 23648] I=0000043 |   |   [font set skipped: CP437 20x20] (unavailable)
+[ 23648] I=0000043 |   |   [font set skipped: CP437 8x8] (unavailable)
+[ 23648] I=0000043 |   |   [font set skipped: CP437 10x10] (unavailable)
+[ 23648] I=0000043 |   \---DONE
+[ 23648] I=0000043 |   Setting video mode
+[ 23648] I=0000043 |   |   Calculating dimensions
+[ 23648] I=0000043 |   |   ...charW=8
+[ 23648] I=0000043 |   |   ...charH=16
+[ 23648] I=0000043 |   |   ...wMin=624
+[ 23648] I=0000043 |   |   ...hMin=960
+[ 23648] I=0000043 |   |   ...wWanted=624
+[ 23648] I=0000043 |   |   ...hWanted=960
+[ 23648] I=0000043 |   |   All video modes available
+[ 23648] I=0000043 |   |   Setting software video mode
+[ 23648] I=0000051 |   \---DONE
+[ 23648] I=0000051 |   Setting video mode
+[ 23648] I=0000051 |   |   Calculating dimensions
+[ 23648] I=0000051 |   |   ...charW=8
+[ 23648] I=0000051 |   |   ...charH=16
+[ 23648] I=0000051 |   |   ...wMin=624
+[ 23648] I=0000051 |   |   ...hMin=960
+[ 23648] I=0000051 |   |   ...wWanted=624
+[ 23648] I=0000051 |   |   ...hWanted=960
+[ 23648] I=0000051 |   |   All video modes available
+[ 23648] I=0000051 |   |   Setting software video mode
+[ 23648] I=0000053 |   \---DONE
+[ 23648] I=0000053 |   Initializing audio
+[ 23648] I=0000309 |   Creating console
+[ 23648] I=0000310 \---DONE
+[ 23648] I=0000311 RP::initialize() | Initializing program
+[ 23648] I=0000311 |   Mapping font glyphs
+[ 23648] I=0000311 |   Creating game consoles
+[ 23648] I=0000311 |   CProgram() | Creating CProgram
+[ 23648] I=0000311 |   |   Initializing input domains and commands
+[ 23648] I=0000311 |   |   Loading inline colors
+[ 23648] I=0000311 |   \---DONE
+[ 23648] I=0000311 |   Creating top-level consoles
+[ 23648] I=0000311 |   ...CPaint
+[ 23648] I=0000313 |   Loading palette: ANSI VGA
+[ 23648] I=0000314 |   Loading palette: Amos
+[ 23648] I=0000316 |   Loading palette: AmstradCPC_green_monochrome
+[ 23648] I=0000317 |   Loading palette: Amstrad_CPC
+[ 23648] I=0000319 |   Loading palette: Apple_II
+[ 23648] I=0000321 |   Loading palette: Aquarius
+[ 23648] I=0000322 |   Loading palette: Arne32
+[ 23648] I=0000323 |   Loading palette: Arne64
+[ 23648] I=0000325 |   Loading palette: Atari_400-800-2600
+[ 23648] I=0000326 |   Loading palette: CDDA
+[ 23648] I=0000328 |   Loading palette: Commodore_16
+[ 23648] I=0000329 |   Loading palette: Commodore_64
+[ 23648] I=0000331 |   Loading palette: Commodore_VIC-20
+[ 23648] I=0000333 |   Loading palette: Crayola
+[ 23648] I=0000334 |   Loading palette: DawnBringer32
+[ 23648] I=0000336 |   Loading palette: NES
+[ 23648] I=0000337 |   Loading palette: Palette
+[ 23648] I=0000339 |   Loading palette: SAM_Coupe
+[ 23648] I=0000341 |   Loading palette: SGI_4Dwm
+[ 23648] I=0000342 |   Loading palette: Sega_Master_System
+[ 23648] I=0000344 |   Loading palette: Sharp_MZ-700
+[ 23648] I=0000345 |   Loading palette: TMS9918_(MSX2)
+[ 23648] I=0000347 |   Loading palette: TMS9918_(master_sys)
+[ 23648] I=0000349 |   Loading palette: TMS9918_(original)
+[ 23648] I=0000350 |   Loading palette: Tango
+[ 23648] I=0000352 |   Loading palette: Thomson_M05
+[ 23648] I=0000353 |   Loading palette: ZX_Spectrum_+2A
+[ 23648] I=0000355 |   Loading palette: ZX_Spectrum_48K
+[ 23648] I=0000357 |   Loading palette: qbicfeet
+[ 23648] I=0000358 |   ...CBrowse
+[ 23648] I=0000359 |   ...CCanvas
+[ 23648] I=0000360 |   ...CPicker
+[ 23648] I=0000360 |   ...CFilename
+[ 23648] I=0000360 |   ...CResize
+[ 23648] I=0000360 |   ...CConfirm
+[ 23648] I=0000360 |   ...COptions
+[ 23648] I=0000360 |   ...CCommands
+[ 23648] I=0000360 |   ...CMessage
+[ 23648] I=0000360 |   ...CMessage 2
+[ 23648] I=0000361 \---DONE
+[ 28428] I=0000361 Http::newsCheck() | Checking version and retrieving news
+[ 23648] I=0000361 |   Starting REX loop
+[ 28428] I=0000361 |   Resolving address...
+[ 28428] I=0000366 |   Connecting...
+[ 28428] I=0000531 |   Sending content...
+[ 28428] I=0000531 |   Waiting for ACK...
+[ 28428] I=0000710 |   Got 324 bytes: HTTP/1.1 200 OK
+Date: Fri, 12 Jan 2024 06:19:19 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+70
+version_v1.70:REXPaint v1.70 is out! See the announcement on Grid Sage Forums for the latest version info.</END>
+0
+
+
+[ 28428] I=0000710 |   POST succeeded
+[ 28428] I=0000710 |   Closing socket...
+[ 28428] I=0000710 \---DONE
+[ 23648] E=0120310 CPathButton::init() | Unable to open file for reading: images/cat.xp
+[ 23648] E=0120957 CPathButton::init() | Unable to open file for reading: images/cat.xp
+[ 23648] E=0128537 CPathButton::init() | Unable to open file for reading: images/cat.xp
+[ 23648] E=0128741 CPathButton::init() | Unable to open file for reading: images/cat.xp
+[ 23648] E=0129217 CPathButton::init() | Unable to open file for reading: images/cat.xp
+[ 23648] E=0129626 CPathButton::init() | Unable to open file for reading: images/cat.xp
+[ 23648] I=0134238 Saving config
+[ 23648] I=0134238 exitREXPaint() | Cleaning up program before exit

@@ -1,0 +1,1 @@
+wt -M main.exe 

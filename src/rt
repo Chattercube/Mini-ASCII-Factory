@@ -1,0 +1,3 @@
+#! bash
+g++ rextest.cpp REXSpeeder.h -lncursesw -o main.exe
+./main.exe

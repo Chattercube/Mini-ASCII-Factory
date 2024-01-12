@@ -1,0 +1,3 @@
+#! bash
+g++ main.cpp block_sprite.cpp block_sprite.h -lncursesw -o main.exe
+./main.exe
